@@ -1,3 +1,7 @@
+// שמות מגישים:
+//תאופיק זיאד
+
+
 const num = 60; // number to test the code
 
 //array destructurer for less repeats
